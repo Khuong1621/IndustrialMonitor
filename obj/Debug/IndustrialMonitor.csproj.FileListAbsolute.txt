@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\CODE\IndustrialMonitor\obj\Debug\IndustrialMonitor.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\CODE\IndustrialMonitor\obj\Debug\IndustrialMonitor.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CODE\IndustrialMonitor\bin\Debug\IndustrialMonitor.exe
+C:\Users\Admin\Documents\CODE\IndustrialMonitor\bin\Debug\IndustrialMonitor.pdb
+C:\Users\Admin\Documents\CODE\IndustrialMonitor\obj\Debug\IndustrialMonitor.exe
+C:\Users\Admin\Documents\CODE\IndustrialMonitor\obj\Debug\IndustrialMonitor.pdb

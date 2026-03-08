@@ -1,0 +1,40 @@
+[2026-03-08 23:31:52.195][T001][INFO   ] Application starting...
+[2026-03-08 23:31:52.784][T001][INFO   ] WorkerPool started with 4 threads.
+[2026-03-08 23:32:41.822][T001][INFO   ] Connecting all devices...
+[2026-03-08 23:34:29.747][T001][INFO   ] TCP Server stopped.
+[2026-03-08 23:34:29.770][T001][INFO   ] WorkerPool disposed.
+[2026-03-08 23:34:29.798][T001][INFO   ] Application closed.
+[2026-03-08 23:34:32.278][T001][INFO   ] Application starting...
+[2026-03-08 23:34:32.632][T001][INFO   ] WorkerPool started with 4 threads.
+[2026-03-08 23:38:49.260][T001][INFO   ] Connecting all devices...
+[2026-03-08 23:39:12.143][T001][INFO   ] Device added: PLC_Line1
+[2026-03-08 23:39:26.184][T001][INFO   ] Connecting all devices...
+[2026-03-08 23:39:32.029][T001][INFO   ] Device added: a
+[2026-03-08 23:41:51.137][T001][INFO   ] Application starting...
+[2026-03-08 23:41:51.467][T001][INFO   ] WorkerPool started with 4 threads.
+[2026-03-08 23:43:33.628][T001][INFO   ] Application starting...
+[2026-03-08 23:43:34.009][T001][INFO   ] WorkerPool started with 4 threads.
+[2026-03-08 23:43:37.331][T001][INFO   ] Device added: ád
+[2026-03-08 23:43:39.692][T001][INFO   ] TCP Server stopped.
+[2026-03-08 23:43:39.698][T001][INFO   ] WorkerPool disposed.
+[2026-03-08 23:43:39.726][T001][INFO   ] Application closed.
+[2026-03-08 23:47:43.464][T001][INFO   ] Application starting...
+[2026-03-08 23:47:43.771][T001][INFO   ] WorkerPool started with 4 threads.
+[2026-03-08 23:47:46.758][T001][INFO   ] Device added: [4] a (Sensor)
+[2026-03-08 23:47:55.324][T001][INFO   ] Connecting all devices...
+[2026-03-08 23:47:55.326][T001][INFO   ] Connected: PLC_Line1
+[2026-03-08 23:47:55.326][T001][INFO   ] Connected: Temp_Sensor_A
+[2026-03-08 23:47:55.326][T001][INFO   ] Connected: HMI_Main
+[2026-03-08 23:47:55.327][T001][INFO   ] Connected: a
+[2026-03-08 23:47:57.356][T001][INFO   ] Disconnecting all devices...
+[2026-03-08 23:48:41.952][T001][INFO   ] TCP Server stopped.
+[2026-03-08 23:48:41.954][T001][INFO   ] WorkerPool disposed.
+[2026-03-08 23:48:41.978][T001][INFO   ] Application closed.
+[2026-03-08 23:48:43.723][T001][INFO   ] Application starting...
+[2026-03-08 23:48:44.052][T001][INFO   ] WorkerPool started with 4 threads.
+[2026-03-08 23:48:54.333][T001][INFO   ] Device added: [4] Sensor 1 (Sensor)
+[2026-03-08 23:49:03.407][T001][INFO   ] Connecting all devices...
+[2026-03-08 23:49:03.409][T001][INFO   ] Connected: PLC_Line1
+[2026-03-08 23:49:03.410][T001][INFO   ] Connected: Temp_Sensor_A
+[2026-03-08 23:49:03.410][T001][INFO   ] Connected: HMI_Main
+[2026-03-08 23:49:03.411][T001][INFO   ] Connected: Sensor 1
